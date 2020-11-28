@@ -1,0 +1,72 @@
+[
+  {
+    "500": {
+      "code": "500",
+      "httpStatus": 500,
+      "description": "Internal Server Error, please contact the support or try it again later."
+    }
+  },
+  {
+    "412.1": {
+      "code": "412.1",
+      "httpStatus": 412,
+      "description": "name is required."
+    }
+  },
+  {
+    "412.2": {
+      "code": "412.2",
+      "httpStatus": 412,
+      "description": "email is required."
+    }
+  },
+  {
+    "412.3": {
+      "code": "412.3",
+      "httpStatus": 412,
+      "description": "cpf is required."
+    }
+  },
+  {
+    "412.4": {
+      "code": "412.4",
+      "httpStatus": 412,
+      "description": "city is required."
+    }
+  },
+  {
+    "412.5": {
+      "code": "412.5",
+      "httpStatus": 412,
+      "description": "password is required."
+    }
+  },
+  {
+    "412.6": {
+      "code": "412.6",
+      "httpStatus": 412,
+      "description": "phone is required."
+    }
+  },
+  {
+    "422.1": {
+      "code": "422.1",
+      "httpStatus": 422,
+      "description": "cpf is invalid."
+    }
+  },
+  {
+    "422.2": {
+      "code": "422.2",
+      "httpStatus": 422,
+      "description": "email is invalid."
+    }
+  },
+  {
+    "422.3": {
+      "code": "422.3",
+      "httpStatus": 422,
+      "description": "email or password is invalid."
+    }
+  }
+]
